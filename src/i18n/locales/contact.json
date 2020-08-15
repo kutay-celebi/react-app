@@ -1,0 +1,18 @@
+{
+  "en": {
+    "adress": "Adress",
+    "gsm1"  : "GSM-1",
+    "gsm2"  : "GSM-2",
+    "tel"   : "Tel",
+    "mail"  : "Mail",
+    "web"   : "Web"
+  },
+  "tr": {
+    "adress": "Adres",
+    "gsm1"  : "GSM-1",
+    "gsm2"  : "GSM-2",
+    "tel"   : "Tel",
+    "mail"  : "Mail",
+    "web"   : "Web"
+  }
+}

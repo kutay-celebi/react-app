@@ -1,0 +1,109 @@
+{
+  "authorities": [],
+  "createdAt": "2020-03-22T15:08:57.580Z",
+  "deleted": true,
+  "deletedAt": "2020-03-22T15:08:57.580Z",
+  "email": "string",
+  "enabled": true,
+  "id": 0,
+  "person": {
+    "company": {
+      "contact": {
+        "adress": "string",
+        "createdAt": "2020-03-22T15:08:57.580Z",
+        "deleted": true,
+        "deletedAt": "2020-03-22T15:08:57.580Z",
+        "gsm1": "string",
+        "gsm2": "string",
+        "id": 0,
+        "mail": "string",
+        "tel": "string",
+        "updatedAt": "2020-03-22T15:08:57.580Z",
+        "uuid": "string",
+        "web": "string"
+      },
+      "country": "string",
+      "createdAt": "2020-03-22T15:08:57.580Z",
+      "deleted": true,
+      "deletedAt": "2020-03-22T15:08:57.580Z",
+      "id": 0,
+      "name": "string",
+      "shortName": "string",
+      "updatedAt": "2020-03-22T15:08:57.580Z",
+      "uuid": "string"
+    },
+    "contact": {
+      "adress": "string",
+      "createdAt": "2020-03-22T15:08:57.580Z",
+      "deleted": true,
+      "deletedAt": "2020-03-22T15:08:57.580Z",
+      "gsm1": "string",
+      "gsm2": "string",
+      "id": 0,
+      "mail": "string",
+      "tel": "string",
+      "updatedAt": "2020-03-22T15:08:57.580Z",
+      "uuid": "string",
+      "web": "string"
+    },
+    "id": 0,
+    "birthday": "2020-03-22T15:08:57.580Z",
+    "createdAt": "2020-03-22T15:08:57.580Z",
+    "deleted": true,
+    "deletedAt": "2020-03-22T15:08:57.580Z",
+    "gender": "MALE",
+    "identificationNumber": "string",
+    "lastName": "string",
+    "midName": "string",
+    "name": "string",
+    "nationality": "string",
+    "title": "string",
+    "updatedAt": "2020-03-22T15:08:57.580Z",
+    "uuid": "string"
+  },
+  "roleList": [
+    {
+      "createdAt": "2020-03-22T15:08:57.580Z",
+      "deleted": true,
+      "deletedAt": "2020-03-22T15:08:57.580Z",
+      "id": 0,
+      "role": {
+        "code": "string",
+        "createdAt": "2020-03-22T15:08:57.580Z",
+        "defaultRole": true,
+        "deleted": true,
+        "deletedAt": "2020-03-22T15:08:57.580Z",
+        "description": "string",
+        "id": 0,
+        "name": "string",
+        "rolePrivilegeRelationList": [
+          {
+            "createdAt": "2020-03-22T15:08:57.580Z",
+            "deleted": true,
+            "deletedAt": "2020-03-22T15:08:57.580Z",
+            "id": 0,
+            "privilege": {
+              "authority": "string",
+              "code": "string",
+              "createdAt": "2020-03-22T15:08:57.580Z",
+              "deleted": true,
+              "deletedAt": "2020-03-22T15:08:57.580Z",
+              "id": 0,
+              "updatedAt": "2020-03-22T15:08:57.580Z",
+              "uuid": "string"
+            },
+            "updatedAt": "2020-03-22T15:08:57.580Z",
+            "uuid": "string"
+          }
+        ],
+        "updatedAt": "2020-03-22T15:08:57.580Z",
+        "uuid": "string"
+      },
+      "updatedAt": "2020-03-22T15:08:57.580Z",
+      "uuid": "string"
+    }
+  ],
+  "updatedAt": "2020-03-22T15:08:57.580Z",
+  "username": "string",
+  "uuid": "string"
+}

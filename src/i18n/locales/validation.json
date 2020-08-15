@@ -1,0 +1,38 @@
+{
+  "en": {
+    "required": "{{field}} is required.",
+    "invalid" : {
+      "date": "Invalid date"
+    },
+    "user"    : {
+      "username": {
+        "min": "Username should be less than {{value}} character.",
+        "max": "Username should be grater than {{value}} character."
+      },
+      "email"   : {
+        "match": "Should be a well-formed email address"
+      },
+      "birthday": {
+        "required": "Birthday must not be empty."
+      }
+    }
+  },
+  "tr": {
+    "required": "{{field}} zorunludur.",
+    "invalid" : {
+      "date": "Geçersiz tarih."
+    },
+    "user"    : {
+      "username": {
+        "min": "Kullanıcı adı minimum {{value}} karakter olabilir.",
+        "max": "Kullanıcı adı maksimum {{value}} karakter olabilir."
+      },
+      "email"   : {
+        "match": "Geçerli bir mail adresi giriniz."
+      },
+      "birthday": {
+        "required": "Doğum tarihi zorunludur."
+      }
+    }
+  }
+}

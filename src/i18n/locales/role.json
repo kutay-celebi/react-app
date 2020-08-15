@@ -1,0 +1,18 @@
+{
+  "en": {
+    "title": "Role Definition",
+    "roleName": "Role Name",
+    "roleCode": "Role Code",
+    "privilege": "Privileges",
+    "currentPrivilege": "Current Privileges",
+    "assocPrivilege": "Associate Privilege"
+  },
+  "tr": {
+    "title": "Rol Tanımlama",
+    "roleName": "Role Adı",
+    "roleCode": "Role Kodu",
+    "privilege": "Yetkiler",
+    "currentPrivilege": "Mevcut Yetkiler",
+    "assocPrivilege": "Yetki İlişkilendir"
+  }
+}

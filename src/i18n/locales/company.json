@@ -1,0 +1,14 @@
+{
+  "en": {
+    "title"    : "Company Definition",
+    "name"     : "Name",
+    "shortName": "Short Name",
+    "country"  : "Country"
+  },
+  "tr": {
+    "title"    : "Kuruluş Tanımlama",
+    "name"     : "Ad",
+    "shortName": "Kısa Ad",
+    "country"  : "Ülke"
+  }
+}

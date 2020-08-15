@@ -1,0 +1,18 @@
+{
+  "en": {
+    "role"       : {
+      "code"       : "Code",
+      "name"       : "name",
+      "description": "Description",
+      "isDefault"  : "Default Role"
+    }
+  },
+  "tr": {
+    "role"       : {
+      "code"       : "Kod",
+      "name"       : "Ad",
+      "description": "Açıklama",
+      "isDefault"  : "Varsayılan Rol"
+    }
+  }
+}
